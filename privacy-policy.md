@@ -1,4 +1,4 @@
-Privacy Policy — BananaMoth Bot
+Privacy Policy — Bananamoth Bot
 Last updated: June 20, 2025
 
 What We Collect
