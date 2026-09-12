@@ -1,6 +1,3 @@
-Bananamoth Bot — Terms of Service
-
-Effective Date: September 11, 2026
 Last Updated: September 11, 2026
 
 These Terms of Service explain the rules for using Bananamoth Bot ("Bananamoth", "the Bot", "we", "us", or "our"), including the Bananamoth dashboard and features provided through Discord.
